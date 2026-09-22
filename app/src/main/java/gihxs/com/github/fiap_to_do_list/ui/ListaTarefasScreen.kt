@@ -1,4 +1,4 @@
-package gihxs.com.github.fiap_to_do_list.ui.theme.ui
+package gihxs.com.github.fiap_to_do_list.ui
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
